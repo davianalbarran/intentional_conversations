@@ -1,0 +1,9 @@
+# Build and dist folders
+build/
+dist/
+
+# Mac stuff
+.DS_Store
+
+# Unwanted files
+ics_sheet.csv
